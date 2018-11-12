@@ -11,6 +11,8 @@ https://nchc.dl.sourceforge.net/project/mingw/MSYS/Base/msys-core/msys-1.0.11/MS
 
 msystool.exe
 
+1.0-M\MINGW 
+
 1.0-32\TDM-GCC-32
 
 1.0-64\TDM-GCC-64
